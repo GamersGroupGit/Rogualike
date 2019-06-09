@@ -9925,6 +9925,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   animator: {fileID: 1435669571}
+  dashSpeed: 100
+  startDashTime: 0.2
 --- !u!1 &1774133401
 GameObject:
   m_ObjectHideFlags: 0
