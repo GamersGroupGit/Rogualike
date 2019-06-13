@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour {
     public float startDashTime;
     private int direction;
 
-
     private void Start()
     {
         animator = GetComponent<Animator>();
